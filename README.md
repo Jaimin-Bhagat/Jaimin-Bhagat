@@ -7,7 +7,9 @@ I am a third-year computer science student at York University, passionate about 
 
 
 💻 Tech Stacks:
+
 Languages:
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
@@ -20,10 +22,15 @@ Languages:
 
 
 Developer Tools:
+
 ![Postman](https://img.shields.io/badge/Postman-FF5733?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-EDEDED?style=for-the-badge&logo=git&logoColor=F05032)
 
+Orchestration Platforms:
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0E76A8?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 Libraries/Frameworks:
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
