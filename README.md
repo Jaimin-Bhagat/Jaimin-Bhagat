@@ -43,6 +43,7 @@ Orchestration Platforms:
 Libraries/Frameworks:
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-E48E3C?style=for-the-badge&logo=sqlalchemy&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
