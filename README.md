@@ -4,13 +4,15 @@
 
 💫 About Me:
 ---------------------
-I am a third-year computer science student at York University, passionate about exploring the realms of coding, machine learning, and handling databases.
+  I am a third-year computer science student at York University, passionate about exploring the realms of coding, 
+  machine learning, and handling databases.
 
 
 🚀 What I'm Up To:
 ---------------------
 
-Exploring Machine Learning with (https://www.freecodecamp.org/learn/machine-learning-with-python/)
+  ‣ Exploring Machine Learning with (https://www.freecodecamp.org/learn/machine-learning-with-python/)
+
 
 
 💻 Tech Stacks:
