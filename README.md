@@ -12,6 +12,7 @@
 ---------------------
 
   ‣ Exploring Machine Learning with [tensor flow](https://www.tensorflow.org/).
+  
   ‣ Working on a web application project which includes authentication, post submission, and responsive design, 
     ensuring accessibility and security.
 
