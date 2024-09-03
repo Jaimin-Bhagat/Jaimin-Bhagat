@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi👋 I'm Jaimin Bhagat
+
+💫 About Me:
+I am a third-year computer science student at York University, passionate about exploring the realms of coding, machine learning, and handling databases.
+
+
 
 🛠️ Tech Stacks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
