@@ -11,7 +11,7 @@
 🚀 What I'm Up To:
 ---------------------
 
-  ‣ Exploring Machine Learning with (https://www.freecodecamp.org/learn/machine-learning-with-python/)
+  ‣ Exploring Machine Learning with [tensor flow](https://www.tensorflow.org/).
 
 
 
