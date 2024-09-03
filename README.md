@@ -6,8 +6,7 @@ I am a third-year computer science student at York University, passionate about 
 
 
 
-🛠️ Tech Stacks:
-
+💻 Tech Stacks:
 Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
