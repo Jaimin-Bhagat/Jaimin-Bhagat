@@ -1,11 +1,18 @@
-## Hi👋 I'm Jaimin Bhagat
+<p align="center">
+ ## Hi👋 I'm Jaimin Bhagat
+</p>
 
+<hr>
 💫 About Me:
 
 I am a third-year computer science student at York University, passionate about exploring the realms of coding, machine learning, and handling databases.
 
+<hr>
 🚀 What I'm Up To:
+
 Exploring Machine Learning with (https://www.freecodecamp.org/learn/machine-learning-with-python/)
+
+<hr>
 
 💻 Tech Stacks:
 
@@ -35,3 +42,4 @@ Libraries/Frameworks:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+<hr>
