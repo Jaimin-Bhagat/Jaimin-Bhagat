@@ -35,6 +35,8 @@ Developer Tools:
 
 ![Postman](https://img.shields.io/badge/Postman-FF5733?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-EDEDED?style=for-the-badge&logo=git&logoColor=F05032)
+![NGINX](https://img.shields.io/badge/NGINX-0C9273?style=for-the-badge&logo=nginx&logoColor=white)
+
 
 Orchestration Platforms:
 
