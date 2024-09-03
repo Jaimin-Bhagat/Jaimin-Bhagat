@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi👋  I'm Jaimin Bhagat</h2>
+<h1 align="center">Hi👋  I'm Jaimin Bhagat</h1>
 
 ---------------------
 💫 About Me:
