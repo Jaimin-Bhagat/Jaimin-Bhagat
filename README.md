@@ -16,9 +16,13 @@ Languages:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=purple)
+![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
 
 
-
+Developer Tools:
+![Postman](https://img.shields.io/badge/Postman-FF5733?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-EDEDED?style=for-the-badge&logo=git&logoColor=F05032)
 
 
 Libraries/Frameworks:
