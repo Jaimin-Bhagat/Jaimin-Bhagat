@@ -2,6 +2,10 @@
 <h1 align="center">Hi👋  I'm Jaimin Bhagat</h1>
 
 
+![Profile GIF](https://github.com/Jaimin-Bhagat/Jaimin-Bhagat/blob/main/assets/github.gif)
+
+
+
 💫 About Me:
 ---------------------
   I am a third-year computer science student at York University, passionate about exploring the realms of coding, 
