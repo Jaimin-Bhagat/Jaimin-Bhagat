@@ -8,7 +8,7 @@
 
 💫 About Me:
 ---------------------
-  I am a third-year computer science student at York University, passionate about exploring the realms of coding, 
+  I am a Computer science student at York University, passionate about exploring the realms of coding, 
   machine learning, and handling databases.
 
 
